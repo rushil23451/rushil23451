@@ -15,7 +15,7 @@ I'm also enthusiastic about competitive programming — I love tackling algorith
 ---
 
 ### 📫 Reach Out
-- Email: rushil23451@gmail.com  
+- Email: rushil23451@iiitd.ac.in
 - GitHub: [@rushil23451](https://github.com/rushil23451)
 
 ---
